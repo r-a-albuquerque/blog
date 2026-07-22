@@ -3,7 +3,7 @@ layout: post
 title: "Guanxi: sobre relacionamentos"
 description: "A importância do relacionamento em negócios"
 date: 2026-07-22
-feature_image: images/china/uanxi.jpg
+feature_image: images/china/guanxi.png
 tags:
   - China
 ---
