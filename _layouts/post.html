@@ -29,7 +29,7 @@ layout: default
       {{content}}
     </div><!-- .post-content -->
     <div class="post-share">
-      <span>Share:</span>
+      <span>Compartilhar:</span>
       <a target="_blank"
         href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}"
         rel="noopener">Twitter</a>
@@ -41,9 +41,9 @@ layout: default
       {% if page.authors %}
       <div class="flex ml-4">
         {% if page.authors.size == 1 %}
-        <h3>About the author</h3>
+        <h3>Sobre o autor</h3>
         {% else %}
-        <h3>About the authors</h3>
+        <h3>Sobre os autores</h3>
         {% endif %}
         {% for author in page.authors %}
         {% include post-author.html

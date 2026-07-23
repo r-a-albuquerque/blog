@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+title: Sobre este blog
+description: Uma página opcional sobre o tema Scriptor Jekyll
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**John Doe** é um Diretor de Arte Sênior de [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lituânia. Depois de se formar no The College of Visual Arts com um diploma em Design de Comunicação, ele trabalhou em três pequenos estúdios de design gráfico, onde aprimorou seu estilo e sensibilidade de design.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Seu trabalho já foi reconhecido pela Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed e Rockport. A Graphic Design USA o nomeou uma pessoa a ser observada em 2015.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>O mundo sempre parece mais brilhante quando você acabou de criar algo que não existia antes. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Como hobby, John Doe escreve o blog de design mais influente da Lituânia, com mais de 100.000 visualizações de página por mês. Ele mora em Vilnius com sua linda esposa, dois meninos e uma menina.
 
-*Thank You for reading!*
+*Obrigado por ler!*
 
-PS: The picture above is an ilustration of [Taeping](https://en.wikipedia.org/wiki/Taeping), a tea clipper built in 1863 by Robert Steele & Company. 
+PS: A imagem acima é uma ilustração do [Taeping](https://en.wikipedia.org/wiki/Taeping), um clipper de chá construído em 1863 pela Robert Steele & Company.

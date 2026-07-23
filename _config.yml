@@ -12,7 +12,7 @@ lang: pt-BR
 title: "Clipper Summer"
 
 # A description of your site for meta tag, search engine results.
-description: "just a regular blog to record ordinary ideas"
+description: "só um blog comum para registrar ideias comuns"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/blog"
@@ -28,7 +28,7 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Início
     url: /
   - text: Sobre
     url: /about
@@ -43,8 +43,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "&copy; Scriptor todos os direitos reservados. Tema por [JustGoodThemes](https://www.justgoodthemes.com)."
 
 # Plugins
 plugins:
