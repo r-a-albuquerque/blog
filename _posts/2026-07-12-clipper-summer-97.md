@@ -4,7 +4,7 @@ title: "Clipper Summer 87: onde tudo começou"
 description: "A linguagem de programação Clipper foi bem popular nos anos 90"
 date: 2026-07-12
 authors: ["r-a-albuquerque"]
-feature_image: images/clipper.jpg
+feature_image: images/posts/clipper-summer-97/feature.jpg
 tags:
   - Clipper
   - Tecnologia

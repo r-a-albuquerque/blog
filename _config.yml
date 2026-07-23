@@ -9,10 +9,10 @@
 lang: pt-BR
 
 # Site title
-title: "Clipper Summer"
+title: "House Keeping de ideias"
 
 # A description of your site for meta tag, search engine results.
-description: "só um blog comum para registrar ideias comuns"
+description: "só mais um blog comum para registrar ideias soltas"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/blog"
@@ -21,7 +21,7 @@ baseurl: "/blog"
 url: "https://r-a-albuquerque.github.io"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/site/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""

@@ -4,7 +4,7 @@ title: "Review: A Week With the Apple Watch"
 description: "The Apple Watch is a smartwatch developed by Apple Inc."
 date: 2019-01-04
 authors: ["Mike Vance"]
-feature_image: images/apple-watch.jpg
+feature_image: images/posts/a-week-with-the-apple-watch/feature.jpg
 tags: [tips, work]
 ---
 The **Apple Watch** is a smartwatch developed by [Apple Inc](http://www.apple.com/). It incorporates fitness tracking and health-oriented capabilities as well as integration with iOS and other Apple products and services. The device is available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition. The Watch is distinguished by different combinations of cases and first or third party interchangeable bands. Apple Watch relies on a wirelessly connected iPhone to perform many of its default functions such as calling and texting. It is compatible with the iPhone 5 or later models running iOS 8.2 or later, through the use of Bluetooth or Wi-Fi. 
@@ -26,7 +26,7 @@ Apple Watch was first unveiled after a classic and ever infamous *"We do have 'o
 
 In comparison to other Apple products and competing smartwatches, marketing of Apple Watch focused more on advertising the device as a fashion accessory; a 12-page advertising spread for Apple Watch in an issue of Vogue focused primarily on the different body and band styles available, and downplayed the technological aspects of it. Apple has also, in particular, focused upon its health and fitness-oriented features, competing against dedicated activity trackers.
 
-{% include image_full.html imageurl="/blog/images/apple-watch-in-car.jpg" title="Apple Watch" caption="Apple watch on the wrist" %}
+{% include image_full.html imageurl="/blog/images/posts/a-week-with-the-apple-watch/apple-watch-in-car.jpg" title="Apple Watch" caption="Apple watch on the wrist" %}
 
 ## Release
 

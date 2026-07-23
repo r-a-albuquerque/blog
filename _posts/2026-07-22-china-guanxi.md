@@ -4,7 +4,7 @@ title: "Guanxi: sobre relacionamentos"
 description: "A importância do relacionamento em negócios"
 date: 2026-07-22
 authors: ["r-a-albuquerque", "mike_vance"]
-feature_image: images/china/guanxi.png
+feature_image: images/posts/china-guanxi/feature.png
 tags:
   - China
   - Tecnologia

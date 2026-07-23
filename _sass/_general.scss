@@ -30,15 +30,20 @@ body {
 }
 
 a {
-  color: _palette(accent);
+  color: blue;
   text-decoration: none;
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
 
   &:hover {
-    color: _palette(secondary);
+    color:_palette(primary);
     text-decoration: underline;
   }
+
+  &:visited {
+    color: rgb(180, 78, 78);
+  }
+
 }
 
 h1,

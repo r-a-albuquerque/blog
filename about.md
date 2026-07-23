@@ -2,7 +2,7 @@
 layout: page
 title: Sobre este blog
 description: Uma página opcional sobre o tema Scriptor Jekyll
-feature_image: images/about.jpg
+feature_image: images/site/about.jpg
 ---
 
 **John Doe** é um Diretor de Arte Sênior de [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lituânia. Depois de se formar no The College of Visual Arts com um diploma em Design de Comunicação, ele trabalhou em três pequenos estúdios de design gráfico, onde aprimorou seu estilo e sensibilidade de design.
