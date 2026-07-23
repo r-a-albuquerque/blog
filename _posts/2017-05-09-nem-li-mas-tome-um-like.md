@@ -14,6 +14,8 @@ Outro dia um contato da minha rede "deu um like" em uma publicação de um profi
 
 Bacana o texto. E nos comentários (ah, os comentários... as vezes são os melhores) alguém escreveu como era deselegante quando alguém, cujo título do cargo é um desses acima, recebia um "like" por estar completando ano na função "em transição de carreira" da empresa "buscando recolocação". Chato né? No comentário a pessoa citava a falta de respeito para com o colega, no que eu concordo. Tudo leva a crer que a regra é: apareceu no feed uma mensagem sugerindo parabenizar? é pra já, tome um "like".
 
+<!--more-->
+
 Parece que encontraram uma explicação para esse fenômeno. As redes sociais (e o LinkedIn é uma delas) estão deixando os usuários viciados em "likes". Tem até um estudo sobre isso, que foi feito com adolescentes, mas a mesma teoria se aplica aos marmanjos. Senão, como explicar a imagem abaixo?
 
 {% include image_full.html imageurl="/blog/images/posts/nem-li-mas-tome-um-like/linkedin.jfif" title="post linkedin" caption="o que houve?" %}

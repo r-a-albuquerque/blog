@@ -12,6 +12,8 @@ tags:
 ---
 Alguns dias atrás passando por uma grande livraria na volta do almoço, um colega de trabalho parou na seção de eletrônicos para olhar os HD externos em exposição. Ele estava interessado em comprar um daqueles  modelos para armazenar suas fotos que estavam se amontoando no seu celular e laptop. Além disso, estava preocupado com o risco de perder os seus arquivos, pois não tinha nenhuma cópia de segurança. O popular backup. Assustado com os preços conversamos sobre as opções de armazenamento em nuvem na internet. Foi aí que me dei conta de como foi o meu primeiro contato com essa tal nuvem. Claro, na época eu não sabia disso.
 
+<!--more-->
+
 No começo dos anos 2000 eu fui estagiário no laboratório da extinta [Revista Info](https://pt.wikipedia.org/wiki/Info_Exame), da [Editora Abril](https://assine.abril.com.br/). Eu adorava aquele trabalho. Lá eu tinha contato com todas as novidades e lançamentos do mundo de tecnologia, fazendo testes nos equipamentos que compunham as matérias publicadas na revista. Foi lá nesse laboratório que eu tive o primeiro contato com o novíssimo - e épico - iMac G3. Ele marcava a volta do Steve Jobs ao comando da Apple, o início dos equipamentos "i", deixava de lado aquele bege chato em forma de caixa por um design inovador de um azul translúcido e não trazia um leitor de disquetes, algo que a própria Apple havia lançado (e inovado) vários anos antes.
 
 {% include image_full.html imageurl="/blog/images/posts/a-formacao-da-nuvem/IMac-IMG_7042.jpg" title="iMac G3" caption="Era bonito :=)" %}
