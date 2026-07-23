@@ -47,7 +47,8 @@ Ignore como modelo os posts `2019-01-04-a-week-with-the-apple-watch.md` (tags em
    - `description`: resumo de uma frase do conteúdo do post.
 
 4. **Data e nome do arquivo.**
-   - `date`: data de hoje por padrão, a menos que o usuário informe outra.
+   - Sempre pergunte ao usuário qual é a data de criação do post (por exemplo via AskUserQuestion, sugerindo a data de hoje como opção padrão). Nunca assuma a data de hoje silenciosamente.
+   - Essa data confirmada é usada tanto no campo `date` do frontmatter quanto no nome do arquivo — as duas devem sempre coincidir.
    - Gere um slug kebab-case a partir do título (minúsculo, sem acentos, hífens no lugar de espaços).
    - Nome do arquivo: `_posts/AAAA-MM-DD-slug.md`.
 
@@ -66,5 +67,14 @@ Ignore como modelo os posts `2019-01-04-a-week-with-the-apple-watch.md` (tags em
    - Monte o frontmatter exatamente no formato do post-modelo (seção acima) com os valores definidos nos passos 1–6.
    - Escreva o arquivo em `_posts/AAAA-MM-DD-slug.md` usando a ferramenta Write.
 
-8. **Resumir para o usuário.**
-   - Informe o caminho do arquivo criado, as tags escolhidas, e o nome/caminho de imagem sugerido — lembrando que a imagem precisa ser adicionada manualmente em `images/`.
+8. **Criar a pasta de imagens do post.**
+   - Crie a pasta vazia `images/posts/<slug-do-post>/` (ex: `mkdir -p`), para o usuário adicionar manualmente o arquivo de imagem depois. Não crie nem baixe nenhum arquivo de imagem dentro dela.
+
+9. **Gerar prompt de imagem para ferramenta externa de geração.**
+   - Ao finalizar, produza um prompt curto (1–3 frases, em inglês, pronto para copiar e colar) para o usuário usar em outra ferramenta de geração de imagem (ex: Midjourney, DALL·E, Stable Diffusion).
+   - Base o prompt no(s) conceito(s) visual(is) escolhido(s) no passo 6 e no conteúdo/tom do post. Inclua estilo visual sugerido (ex: "flat illustration", "editorial photo", "minimalist digital art") e proporção adequada para feature image de blog (ex: paisagem, 16:9).
+   - Apresente o prompt em um bloco de código separado, para facilitar a cópia.
+
+10. **Resumir para o usuário.**
+    - Informe o caminho do arquivo `.md` criado, a pasta de imagens criada, as tags escolhidas, e o caminho de imagem sugerido (`feature_image`) — lembrando que o arquivo de imagem precisa ser adicionado manualmente na pasta criada.
+    - Inclua o prompt de geração de imagem do passo 9.
