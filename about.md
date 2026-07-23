@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Sobre este blog
-description: Uma página opcional sobre o tema Scriptor Jekyll
+title: Sobre o autor deste blog
+description: Curiosidades sobre o autor
 feature_image: images/site/about.jpg
 ---
 
-**John Doe** é um Diretor de Arte Sênior de [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lituânia. Depois de se formar no The College of Visual Arts com um diploma em Design de Comunicação, ele trabalhou em três pequenos estúdios de design gráfico, onde aprimorou seu estilo e sensibilidade de design.
+**Roberto Albuquerque** é um profissional de tecnologia com quase 30 anos de carreira. Programador por formação, começou a criar programas em _Clipper_ ainda no colégio técnico e vender alguns desses sistemas o ajudou a pagar a mensalidade da faculdade de Ciência da Computação. o resto é história.
 
-Seu trabalho já foi reconhecido pela Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed e Rockport. A Graphic Design USA o nomeou uma pessoa a ser observada em 2015.
+Como hobby, Roberto gosta de viajar — já passou por destinos na Ásia, Europa e diversos cantos do Brasil, sempre em busca de novas histórias para contar.
 
->O mundo sempre parece mais brilhante quando você acabou de criar algo que não existia antes. <cite>Neil Gaiman</cite>
+>"Viajar te deixa sem palavras, e depois te transforma em um contador de histórias." <cite>Ibn Battuta</cite>
 
-Como hobby, John Doe escreve o blog de design mais influente da Lituânia, com mais de 100.000 visualizações de página por mês. Ele mora em Vilnius com sua linda esposa, dois meninos e uma menina.
+Mora com sua família. Esposa e dois filhos (um deles de quatro patas). É palmeirense fanático, mas acompanha os jogos pela televisão.
 
 *Obrigado por ler!*
 
