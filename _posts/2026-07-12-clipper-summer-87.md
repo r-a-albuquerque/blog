@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Guanxi: sobre relacionamentos"
-description: "A importância do relacionamento em negócios"
-date: 2026-07-22
-authors: ["r-a-albuquerque", "mike_vance"]
+title: "Clipper Summer 87"
+description: "A primeira linguagem de programação"
+date: 2026-07-12
+authors: ["r-a-albuquerque"]
 image: images/china/guanxi.png
-featured: true
+featured: false
 tags:
   - China
   - Tecnologia
