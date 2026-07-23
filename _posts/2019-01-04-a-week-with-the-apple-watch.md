@@ -3,6 +3,7 @@ layout: post
 title: "Review: A Week With the Apple Watch"
 description: "The Apple Watch is a smartwatch developed by Apple Inc."
 date: 2019-01-04
+authors: ["Mike Vance"]
 feature_image: images/apple-watch.jpg
 tags: [tips, work]
 ---
