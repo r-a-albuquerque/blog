@@ -3,6 +3,7 @@ layout: post
 title: "Review: A Week With the Apple Watch"
 description: "The Apple Watch is a smartwatch developed by Apple Inc."
 date: 2019-01-04
+authors: ["Mike Vance"]
 feature_image: images/apple-watch.jpg
 tags: [tips, work]
 ---
@@ -25,7 +26,7 @@ Apple Watch was first unveiled after a classic and ever infamous *"We do have 'o
 
 In comparison to other Apple products and competing smartwatches, marketing of Apple Watch focused more on advertising the device as a fashion accessory; a 12-page advertising spread for Apple Watch in an issue of Vogue focused primarily on the different body and band styles available, and downplayed the technological aspects of it. Apple has also, in particular, focused upon its health and fitness-oriented features, competing against dedicated activity trackers.
 
-{% include image_full.html imageurl="/images/apple-watch-in-car.jpg" title="Apple Watch" caption="Apple watch on the wrist" %}
+{% include image_full.html imageurl="/blog/images/apple-watch-in-car.jpg" title="Apple Watch" caption="Apple watch on the wrist" %}
 
 ## Release
 

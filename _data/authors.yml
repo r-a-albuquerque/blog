@@ -1,0 +1,12 @@
+r-a-albuquerque:
+  name: Roberto Albuquerque
+  bio: "Roberto é designer, fotógrafo, palestrante, autor de alguns livros sobre tipografia e fundador da revista de fotografia Curious."
+  url: https://www.linkedin.com/in/robertoarruda
+  location: São Paulo, Brasil
+  image: images/author/r-a-albuquerque.png
+mike_vance:
+  name: 'Mike Vance'
+  bio: 'Mike Vance sempre agradece antecipadamente'
+  url: https://mkvance.github.io/blog
+  location: Estocolmo, Noruega
+  image: images/author/mike_vance.png

@@ -1,0 +1,21 @@
+{% assign author_name = include.author %}
+{% assign show_author_name = include.show_author_name %}
+{% assign author_object = site.data.authors[author_name] %}
+{% assign style = include.style | default: 'inline' %}
+
+{% if author_object %}
+<div>
+  <div class="author-avatar" style="background-image: url('{{ author_object.image }}')"><span
+      class="screen-reader-text">Foto de {{ author_object.name }}</span></div>
+  {% endif %}
+  <div class="author-details">
+    <h2 class="author-title"> {{ author_object.name }}</h2>
+    <div class="author-bio">{{ author_object.bio | markdownify }}</div>
+    {% if author_object.location and author_object.location != "" %}
+    <span class="author-location">{{ author_object.location}} - </span>
+    {% endif %}
+    {% if author_object.url and author_object.url != "" %}
+    <span class="author-website"><a href="{{ author_object.url }}" target="_blank" rel="noopener">{{
+        author_object.url }}</a></span>
+  </div>
+  {% endif %}
